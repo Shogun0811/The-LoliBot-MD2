@@ -20,7 +20,7 @@ global.owner = [
 ['5492266613038']]
 
 global.mods = ['50495745934'] 
-global.prems = ['972529277314'],  
+global.prems = ['221760263631'],  
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
 //Agrega el Idioma que quieres que tenga The-LoliBot-MD
